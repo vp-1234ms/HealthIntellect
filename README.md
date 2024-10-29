@@ -11,14 +11,23 @@ HealthIntellect is an AI-powered web application for complete health monitoring 
 ### ECG
 <img width="548" alt="Screenshot 2024-10-29 at 7 49 16 PM" src="https://github.com/user-attachments/assets/a543d786-3e3b-4860-90c8-013badb4309d">
 
+![WhatsApp Image 2024-10-29 at 10 21 22 PM](https://github.com/user-attachments/assets/39eca2de-289f-4dfc-84f1-d75581af5d89)
+
 ### EOG
 <img width="549" alt="Screenshot 2024-10-29 at 7 49 41 PM" src="https://github.com/user-attachments/assets/e1d79db8-aa45-42ef-8618-b31a5618f894">
+
+![WhatsApp Image 2024-10-29 at 10 21 22 PM](https://github.com/user-attachments/assets/39eca2de-289f-4dfc-84f1-d75581af5d89)
 
 ### EMG
 <img width="550" alt="Screenshot 2024-10-29 at 7 49 02 PM (1)" src="https://github.com/user-attachments/assets/4b6bd048-8bcf-4e24-a442-63ff1babe385">
 
+![WhatsApp Image 2024-10-29 at 10 20 53 PM](https://github.com/user-attachments/assets/8bbfcbe7-9c9b-4011-bead-467906e649c0)
+
 ### EOG
 <img width="529" alt="Screenshot 2024-10-29 at 7 49 29 PM" src="https://github.com/user-attachments/assets/6ecda286-07c1-45a8-9d20-afc2c71d6539">
+
+![WhatsApp Image 2024-10-29 at 10 22 07 PM](https://github.com/user-attachments/assets/8c1806a3-80a1-4e6c-9fd2-6f6b949c3418)
+
 
 ### SENSORS USED:
 ![WhatsApp Image 2024-10-29 at 10 08 13 PM](https://github.com/user-attachments/assets/77e5748e-c3de-4bf6-a837-1cf910f320e3)
