@@ -28,6 +28,16 @@ HealthIntellect is an AI-powered web application for complete health monitoring 
 
 ![WhatsApp Image 2024-10-29 at 10 22 07 PM](https://github.com/user-attachments/assets/8c1806a3-80a1-4e6c-9fd2-6f6b949c3418)
 
+### WEB UI:
+
+![WhatsApp Image 2024-10-29 at 10 31 59 PM](https://github.com/user-attachments/assets/5068844c-e9c5-4ac1-b08a-3476cce5c51e)
+
+![WhatsApp Image 2024-10-29 at 10 33 32 PM](https://github.com/user-attachments/assets/ab6a7877-2191-45c9-bc70-03c42220611a)
+
+![WhatsApp Image 2024-10-29 at 10 33 56 PM](https://github.com/user-attachments/assets/c5c884b7-5436-480a-8bd4-d891f215375c)
+
+![WhatsApp Image 2024-10-29 at 10 34 35 PM](https://github.com/user-attachments/assets/a7466946-ff3f-49ee-9467-2e6900b92cc4)
+
 
 ### SENSORS USED:
 ![WhatsApp Image 2024-10-29 at 10 08 13 PM](https://github.com/user-attachments/assets/77e5748e-c3de-4bf6-a837-1cf910f320e3)
