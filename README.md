@@ -16,7 +16,7 @@ HealthIntellect is an AI-powered web application for complete health monitoring 
 ### EOG
 <img width="549" alt="Screenshot 2024-10-29 at 7 49 41 PM" src="https://github.com/user-attachments/assets/e1d79db8-aa45-42ef-8618-b31a5618f894">
 
-![WhatsApp Image 2024-10-29 at 10 21 22 PM](https://github.com/user-attachments/assets/39eca2de-289f-4dfc-84f1-d75581af5d89)
+![WhatsApp Image 2024-10-29 at 10 23 06 PM](https://github.com/user-attachments/assets/eabe5b5c-586a-45b2-9a7c-cc1362f90018)
 
 ### EMG
 <img width="550" alt="Screenshot 2024-10-29 at 7 49 02 PM (1)" src="https://github.com/user-attachments/assets/4b6bd048-8bcf-4e24-a442-63ff1babe385">
