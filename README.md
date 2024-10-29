@@ -7,3 +7,6 @@ HealthIntellect is an AI-powered web application for complete health monitoring 
 3) Each user has a secure, individualized profile accessible through a web app, displaying real-time health data, trends, and predictive insights.
 4) Provides immediate feedback and alerts for deviations in key health parameters, aiding in rapid response and proactive healthcare.
 5) Offers actionable insights on brain activity, cardiac function, muscle health, and body temperature, supporting critical care assessments, rehabilitation, and daily health monitoring.
+![WhatsApp Image 2024-10-29 at 10 08 13 PM](https://github.com/user-attachments/assets/77e5748e-c3de-4bf6-a837-1cf910f320e3)
+![WhatsApp Image 2024-10-29 at 10 03 50 PM](https://github.com/user-attachments/assets/e6d0731f-2627-4ca7-a567-451c63ebf7be)
+![WhatsApp Image 2024-10-29 at 10 04 48 PM](https://github.com/user-attachments/assets/4c5680d9-e39d-42e3-83e5-31f1ca0ea8ac)
